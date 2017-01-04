@@ -1,6 +1,6 @@
 # Dependencies
-markdown:         redcarpet
-highlighter:      pygments
+markdown:         kramdown
+highlighter:      rouge
 
 # Permalinks
 permalink:        pretty
@@ -10,7 +10,7 @@ title:            raemadeline
 tagline:          'blog'
 description:      'A collection of my recent projects and thoughts about tech'
 url:              http://raemadeline.github.io/blog
-baseurl:          /
+baseurl:          /blog/
 
 author:
   name:           'Madeline Rae Horowitz'
@@ -24,4 +24,4 @@ version:          2.1.0
 github:
   repo:           https://github.com/raemadeline/blog
 
-gems: [jekyll-paginate, redcarpet, jekyll-gist, pygments.rb]
+gems: [jekyll-paginate, jekyll-gist]
