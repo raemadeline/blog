@@ -2,6 +2,8 @@
 
 # 2017
 
++ Sweetbitter - Stephanie Danler
++ I Was Told There Would Be Cake - Sloane Crosley
 + The Vegetarian - Han King
 + Scrappy Little Nobody - Anna Kendrick
 
