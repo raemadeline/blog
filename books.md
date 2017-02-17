@@ -2,6 +2,7 @@
 
 # 2017
 
++ Postcards from the Edge - Carrie Fisher
 + Sweetbitter - Stephanie Danler
 + I Was Told There Would Be Cake - Sloane Crosley
 + The Vegetarian - Han King
