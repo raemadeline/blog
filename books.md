@@ -2,6 +2,7 @@
 
 # 2017
 
++ The Curious Incident of the Dog in the Night Time - Mark Haddon
 + Postcards from the Edge - Carrie Fisher
 + Sweetbitter - Stephanie Danler
 + I Was Told There Would Be Cake - Sloane Crosley
