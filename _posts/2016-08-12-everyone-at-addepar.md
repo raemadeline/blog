@@ -15,6 +15,8 @@ After I was done, I arranged all of the portraits together in a poster that now 
 
 ![Everyone at Addepar]({{ site.baseurl }}/assets/faces/everyone-at-addepar.jpg)
 
+![Everyone at Addepar]({{ site.baseurl }}/assets/faces/poster-in-office.jpg)
+
 In the process, I realized that some of my coworkers took on the likeness of a few celebrities:
 
 ![Celebrities]({{ site.baseurl }}/assets/faces/celebrities.png)
